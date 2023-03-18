@@ -20,6 +20,23 @@ pipeline {
                 sh 'mvn clean install'
             }
         }
+        stage('Build Docker Images') {
+                    steps {
+                        sh 'docker build -t yeshwanthd/miniproj:latest .'
+                    }
+                }
+                stage('Publish Docker Images') {
+                    steps {
+                        withDockerRegistry([ credentialsId: "dockerid", url: "" ]) {
+                            sh 'docker push yeshwanthd/miniproj:latest'
+                        }
+                    }
+                }
+                stage('Clean Docker Images') {
+                    steps {
+                        sh 'docker rmi -f yeshwanthd/miniproj:latest'
+                    }
+                }
 
     }
 }
