@@ -8,7 +8,7 @@
         state: started
 
     - name: pull docker image
-      shell: docker pull yeshwanthd/miniprojspe
+      shell: docker pull yeshwanthd/miniproj
 
     - name: running container
-      shell: docker run -it -d yeshwanthd/miniprojspe /bin/bash
+      shell: docker run -it -d yeshwanthd/miniproj /bin/bash
