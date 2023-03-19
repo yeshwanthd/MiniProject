@@ -22,3 +22,27 @@
 2023-03-19 06:51:22.318 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 5.0
 2023-03-19 06:51:22.319 [main] INFO  org.example.Calculator - [ROOT] - 36.0
 2023-03-19 06:51:22.319 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 6.0
+2023-03-19 06:54:54.727 [main] INFO  org.example.Calculator - [FACTORIAL] - 5
+2023-03-19 06:54:54.730 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 120
+2023-03-19 06:54:54.731 [main] INFO  org.example.Calculator - [FACTORIAL] - 4
+2023-03-19 06:54:54.731 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 24
+2023-03-19 06:54:54.735 [main] INFO  org.example.Calculator - [ROOT] - 25.0
+2023-03-19 06:54:54.735 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 5.0
+2023-03-19 06:54:54.736 [main] INFO  org.example.Calculator - [ROOT] - 36.0
+2023-03-19 06:54:54.736 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 6.0
+2023-03-19 06:58:16.581 [main] INFO  org.example.Calculator - [FACTORIAL] - 5
+2023-03-19 06:58:16.584 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 120
+2023-03-19 06:58:16.585 [main] INFO  org.example.Calculator - [FACTORIAL] - 4
+2023-03-19 06:58:16.585 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 24
+2023-03-19 06:58:16.590 [main] INFO  org.example.Calculator - [ROOT] - 25.0
+2023-03-19 06:58:16.590 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 5.0
+2023-03-19 06:58:16.591 [main] INFO  org.example.Calculator - [ROOT] - 36.0
+2023-03-19 06:58:16.591 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 6.0
+2023-03-19 07:00:27.223 [main] INFO  org.example.Calculator - [FACTORIAL] - 5
+2023-03-19 07:00:27.226 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 120
+2023-03-19 07:00:27.227 [main] INFO  org.example.Calculator - [FACTORIAL] - 4
+2023-03-19 07:00:27.227 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 24
+2023-03-19 07:00:27.231 [main] INFO  org.example.Calculator - [ROOT] - 25.0
+2023-03-19 07:00:27.232 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 5.0
+2023-03-19 07:00:27.232 [main] INFO  org.example.Calculator - [ROOT] - 36.0
+2023-03-19 07:00:27.233 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 6.0
