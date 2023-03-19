@@ -14,3 +14,11 @@
 2023-03-19 06:38:40.830 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 5.0
 2023-03-19 06:38:40.831 [main] INFO  org.example.Calculator - [ROOT] - 36.0
 2023-03-19 06:38:40.831 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 6.0
+2023-03-19 06:51:22.309 [main] INFO  org.example.Calculator - [FACTORIAL] - 5
+2023-03-19 06:51:22.313 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 120
+2023-03-19 06:51:22.314 [main] INFO  org.example.Calculator - [FACTORIAL] - 4
+2023-03-19 06:51:22.314 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 24
+2023-03-19 06:51:22.317 [main] INFO  org.example.Calculator - [ROOT] - 25.0
+2023-03-19 06:51:22.318 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 5.0
+2023-03-19 06:51:22.319 [main] INFO  org.example.Calculator - [ROOT] - 36.0
+2023-03-19 06:51:22.319 [main] INFO  org.example.Calculator - [RESULT - ROOT] - 6.0
