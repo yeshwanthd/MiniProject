@@ -53,9 +53,9 @@ public class CalculatorTest {
     @Test
     public void testPower2()
     {
-        double cal_value=calci.power(4.0, 3.0);
-        double exp_value=64.0;
-        assertEquals(cal_value,exp_value,delta);
+        double cal_value=calci.power(2.0, 3.0);
+        double exp_value=8.0;
+        assertNotEquals(cal_value,exp_value,delta);
 //        assertTrue( true );
     }
     @Test
@@ -64,6 +64,14 @@ public class CalculatorTest {
         double cal_value=calci.log(1);
         double exp_value=0;
         assertEquals(cal_value,exp_value,delta);
+//        assertTrue( true );
+    }
+    @Test
+    public void testLog2()
+    {
+        double cal_value=calci.log(1);
+        double exp_value=20;
+        assertNotEquals(cal_value,exp_value,delta);
 //        assertTrue( true );
     }
 
