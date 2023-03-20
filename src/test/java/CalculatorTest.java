@@ -42,10 +42,19 @@ public class CalculatorTest {
         assertNotEquals(cal_value,exp_value,delta);
 //        assertTrue( true );
     }
+    @Test
     public void testPower1()
     {
         double cal_value=calci.power(2.0, 3.0);
         double exp_value=8.0;
+        assertEquals(cal_value,exp_value,delta);
+//        assertTrue( true );
+    }
+    @Test
+    public void testPower2()
+    {
+        double cal_value=calci.power(4.0, 3.0);
+        double exp_value=64.0;
         assertEquals(cal_value,exp_value,delta);
 //        assertTrue( true );
     }
