@@ -13,7 +13,7 @@ public class Calculator {
     public static double root(double n) {
         logger.info("[ROOT] - " + n);
         if (n < 0) {
-            return Double.NaN;
+            return Double.NaN; //return Nan value
         }
 
         double ans = Math.sqrt(n);
